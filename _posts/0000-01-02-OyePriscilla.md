@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!" "Halleluyah!!!"
+title: "Welcome to our second slide!" "Halleluyah!!!" Glory
 
 ---
 
